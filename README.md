@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="512" alt="CantScript Logo" src="https://github.com/cantscript/SchoolAssembly/blob/main/Images/SchoolAssemblyIcon.png">
+<img width="512" alt="CantScript Logo" src="https://github.com/cantscript/LocalJamfSchoolVariables/blob/main/CantScript_Full_DotComV7.png">
 </p>
 
 Jamf School allows for variable substitution all over the place, just not in Scripts!
