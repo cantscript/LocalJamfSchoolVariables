@@ -1,5 +1,9 @@
 # LocalJamfSchoolVariables
 
+<div style="text-align: center;">
+    <img src="https://github.com/cantscript/LocalJamfSchoolVariables/blob/main/CantScript_Full_DotComV7.png" alt="CantScript Logo" style="max-width: 60%; height: auto;">
+</div>
+
 Jamf School allows for variable substitution all over the place, just not in Scripts!
 
 In the blog, [Using Jamf School Variables in Scripts](www.cantscript.com), I look at how to deliver Jamf School variables to devices for use in Scripts.
