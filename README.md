@@ -1,8 +1,9 @@
 # LocalJamfSchoolVariables
 
-<div style="text-align: center;">
-    <img src="https://github.com/cantscript/LocalJamfSchoolVariables/blob/main/CantScript_Full_DotComV7.png" alt="CantScript Logo" style="max-width: 60%; height: auto;">
-</div>
+
+<p align="center">
+<img width="512" alt="CantScript Logo" src="https://github.com/cantscript/SchoolAssembly/blob/main/Images/SchoolAssemblyIcon.png">
+</p>
 
 Jamf School allows for variable substitution all over the place, just not in Scripts!
 
